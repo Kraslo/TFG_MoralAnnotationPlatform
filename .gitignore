@@ -146,3 +146,7 @@ case_study/test.txt
 docker/fuseki/db/*
 docker/postgre1/postgres-data/pgdata/*
 code/fetcher/logs/*
+
+
+# extra
+.VSCodeCounter
