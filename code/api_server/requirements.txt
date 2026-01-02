@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+pyfuseki
+langchain
+langchain-openai
+python-dotenv
+moralstrength
+newspaper4k
+lxml_html_clean
+pandas
+sqlalchemy
+psycopg2-binary
+rdflib
+trafilatura
+langdetect
+pipenv

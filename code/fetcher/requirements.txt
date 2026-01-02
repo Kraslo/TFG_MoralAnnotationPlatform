@@ -1,0 +1,15 @@
+pydantic
+pyfuseki
+langchain
+langchain-openai
+python-dotenv
+moralstrength
+newspaper4k
+lxml_html_clean
+pandas
+sqlalchemy
+psycopg2
+rdflib
+trafilatura
+langdetect
+feedparser

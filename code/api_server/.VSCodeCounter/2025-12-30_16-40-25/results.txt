@@ -1,0 +1,51 @@
+Date : 2025-12-30 16:40:25
+Directory : /home/kraslo/TFG/code/api_server/app
+Total : 17 files,  359 codes, 28 comments, 126 blanks, all 513 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         17 |        359 |         28 |        126 |        513 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |         17 |        359 |         28 |        126 |        513 |
+| . (Files)                                                              |          2 |         37 |          6 |         17 |         60 |
+| api                                                                    |          5 |         20 |          5 |         11 |         36 |
+| api (Files)                                                            |          2 |         20 |          5 |          8 |         33 |
+| api/v1                                                                 |          3 |          0 |          0 |          3 |          3 |
+| api/v1 (Files)                                                         |          2 |          0 |          0 |          2 |          2 |
+| api/v1/endpoints                                                       |          1 |          0 |          0 |          1 |          1 |
+| core                                                                   |          3 |          0 |          0 |          3 |          3 |
+| models                                                                 |          3 |         36 |          2 |         19 |         57 |
+| routers                                                                |          3 |        204 |         14 |         52 |        270 |
+| services                                                               |          1 |         62 |          1 |         24 |         87 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                               | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /home/kraslo/TFG/code/api_server/app/__init__.py                       | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/api/__init__.py                   | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/api/dependencies.py               | Python   |         20 |          5 |          7 |         32 |
+| /home/kraslo/TFG/code/api_server/app/api/v1/__init__.py                | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/api/v1/endpoints/__init__.py      | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/api/v1/router.py                  | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/core/__init__.py                  | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/core/config.py                    | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/core/security.py                  | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/main.py                           | Python   |         37 |          6 |         16 |         59 |
+| /home/kraslo/TFG/code/api_server/app/models/__init__.py                | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/models/db_models.py               | Python   |         22 |          0 |         10 |         32 |
+| /home/kraslo/TFG/code/api_server/app/models/models.py                  | Python   |         14 |          2 |          8 |         24 |
+| /home/kraslo/TFG/code/api_server/app/routers/__init__.py               | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/routers/admin_router.py           | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/api_server/app/routers/moral_annotator_router.py | Python   |        204 |         14 |         50 |        268 |
+| /home/kraslo/TFG/code/api_server/app/services/fetch_news_service.py    | Python   |         62 |          1 |         24 |         87 |
+| Total                                                                  |          |        359 |         28 |        126 |        513 |
++------------------------------------------------------------------------+----------+------------+------------+------------+------------+

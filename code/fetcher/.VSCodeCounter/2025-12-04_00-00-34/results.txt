@@ -1,0 +1,45 @@
+Date : 2025-12-04 00:00:34
+Directory : /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src
+Total : 16 files,  548 codes, 381 comments, 155 blanks, all 1084 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         16 |        548 |        381 |        155 |      1,084 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |         16 |        548 |        381 |        155 |      1,084 |
+| app                                                                                            |          2 |         60 |          8 |         15 |         83 |
+| handlers                                                                                       |          3 |         67 |         27 |         18 |        112 |
+| models                                                                                         |          2 |         27 |          2 |         14 |         43 |
+| services                                                                                       |          6 |        229 |        265 |         62 |        556 |
+| utils                                                                                          |          3 |        165 |         79 |         46 |        290 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                       | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/app/__init__.py                | Python   |          0 |          0 |          1 |          1 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/app/main.py                    | Python   |         60 |          8 |         14 |         82 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/handlers/__init__.py           | Python   |          0 |          0 |          1 |          1 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/handlers/fuseki_handler.py     | Python   |         45 |         20 |         11 |         76 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/handlers/postgre1_handler.py   | Python   |         22 |          7 |          6 |         35 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/models/__init__.py             | Python   |          0 |          0 |          1 |          1 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/models/models.py               | Python   |         27 |          2 |         13 |         42 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/__init__.py           | Python   |          0 |          0 |          1 |          1 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/fetch_news.py         | Python   |         35 |         19 |         13 |         67 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/insert_annotations.py | Python   |         69 |         14 |         16 |         99 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/insert_fuseki.py      | Python   |         59 |        205 |         13 |        277 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/llm_service.py        | Python   |         31 |         10 |          7 |         48 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/moral_annotations.py  | Python   |         35 |         17 |         12 |         64 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/utils/article_processing.py    | Python   |         19 |          3 |          6 |         28 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/utils/logging_config.py        | Python   |         38 |          1 |          8 |         47 |
+| /mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/utils/moral_annotation.py      | Python   |        108 |         75 |         32 |        215 |
+| Total                                                                                          |          |        548 |        381 |        155 |      1,084 |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

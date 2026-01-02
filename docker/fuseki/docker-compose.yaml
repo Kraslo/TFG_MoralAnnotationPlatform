@@ -1,0 +1,19 @@
+services:
+  fuseki:
+    container_name: fuseki-db
+    image: secoresearch/fuseki:5.5.0
+    environment:
+      - ADMIN_PASSWORD="password"
+    ports:
+      - 3030:3030 # Default fuseki port
+    networks:
+      - db-network
+    volumes:
+      - ./db:/fuseki-base/database
+      - ./configuration:/fuseki-base/configuration
+    restart: unless-stopped
+
+networks:
+  db-network:
+    driver: bridge
+

@@ -1,0 +1,7 @@
+"filename", "language", "Python", "comment", "blank", "total"
+"/mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/app/main.py", "Python", 11, -5, -6, 0
+"/mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/handlers/fuseki_handler.py", "Python", 0, -17, 3, -14
+"/mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/fetch_news.py", "Python", 11, 2, 2, 15
+"/mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/insert_fuseki.py", "Python", 122, -184, 31, -31
+"/mnt/c/Users/ignacio.escribano_bl/OneDrive/TFG/code/fetcher/src/services/moral_annotations.py", "Python", -1, 0, 0, -1
+"Total", "-", 143, -204, 30, -31

@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+pydantic = "*"
+pyfuseki = "*"
+langchain = "*"
+langchain-openai = "*"
+python-dotenv = "*"
+moralstrength = "*"
+newspaper4k = "*"
+lxml-html-clean = "*"
+pandas = "*"
+sqlalchemy = "*"
+psycopg2-binary = "*"
+rdflib = "*"
+trafilatura = "*"
+langdetect = "*"
+pipenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

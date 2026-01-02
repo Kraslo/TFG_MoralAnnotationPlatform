@@ -1,0 +1,49 @@
+Date : 2025-12-30 16:39:58
+Directory : /home/kraslo/TFG/code/fetcher/src
+Total : 18 files,  825 codes, 201 comments, 216 blanks, all 1242 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         18 |        825 |        201 |        216 |      1,242 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                         | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                            |         18 |        825 |        201 |        216 |      1,242 |
+| tfg_fetcher                                                                  |         18 |        825 |        201 |        216 |      1,242 |
+| tfg_fetcher (Files)                                                          |          1 |          1 |          4 |          2 |          7 |
+| tfg_fetcher/app                                                              |          2 |         71 |          5 |          9 |         85 |
+| tfg_fetcher/handlers                                                         |          3 |         80 |         10 |         20 |        110 |
+| tfg_fetcher/models                                                           |          2 |         44 |          2 |         16 |         62 |
+| tfg_fetcher/services                                                         |          6 |        462 |        101 |        120 |        683 |
+| tfg_fetcher/utils                                                            |          4 |        167 |         79 |         49 |        295 |
++------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                     | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/__init__.py                    | Python   |          1 |          4 |          2 |          7 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/app/__init__.py                | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/app/main.py                    | Python   |         71 |          5 |          8 |         84 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/handlers/__init__.py           | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/handlers/fuseki_handler.py     | Python   |         58 |          3 |         13 |         74 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/handlers/postgre1_handler.py   | Python   |         22 |          7 |          6 |         35 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/models/__init__.py             | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/models/models.py               | Python   |         44 |          2 |         15 |         61 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/services/__init__.py           | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/services/fetch_news.py         | Python   |         59 |         26 |         19 |        104 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/services/insert_annotations.py | Python   |         59 |         14 |         18 |         91 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/services/insert_fuseki.py      | Python   |        268 |         29 |         58 |        355 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/services/llm_service.py        | Python   |         46 |         11 |         11 |         68 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/services/moral_annotations.py  | Python   |         30 |         21 |         13 |         64 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/utils/__init__.py              | Python   |          0 |          0 |          1 |          1 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/utils/article_processing.py    | Python   |         19 |          3 |          7 |         29 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/utils/logging_config.py        | Python   |         40 |          1 |          9 |         50 |
+| /home/kraslo/TFG/code/fetcher/src/tfg_fetcher/utils/moral_annotation.py      | Python   |        108 |         75 |         32 |        215 |
+| Total                                                                        |          |        825 |        201 |        216 |      1,242 |
++------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
